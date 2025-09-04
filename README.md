@@ -1,7 +1,8 @@
 # 01-Individual Repo
 Template for individual student repo
 
-<img src="‎./images/IMG_6773.jpg" width="20%">
+<img src="./images/thisisme.png" width="20%">
+
 <p> This is me </p>
 
 ## Individual links
